@@ -77,3 +77,10 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+
+![1](https://github.com/akash1995/meditation/assets/16153790/d77e3844-6995-479d-b55a-fd33215bf062)
+![2](https://github.com/akash1995/meditation/assets/16153790/5bfe128b-d97e-435e-aea9-ebb54bd29236)
+![3](https://github.com/akash1995/meditation/assets/16153790/a82ee715-aec8-4b2f-9e79-95f2ab4c3178)
+![4](https://github.com/akash1995/meditation/assets/16153790/345d0daf-292f-4be5-b482-46940e5638b8)
+![5](https://github.com/akash1995/meditation/assets/16153790/a09cff2f-9dce-461c-aa73-5c3bef152a4c)
