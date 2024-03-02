@@ -1,0 +1,10 @@
+/node_modules
+/package-lock.json
+/__tests__
+/Gemfile
+/.DS_Store
+/Gemfile.lock
+/android
+/babel.config.js
+/ios
+tsconfig.json
